@@ -14,7 +14,9 @@ $ python server.py
 ```
 
 - worker
+```
 $ python notif.py
+```
 
 ## Colaborator :
 
