@@ -9,7 +9,7 @@ Installation:
 
 - server
 ```shell
-$ git clone https://github.com/idmore/API-Dengan-GraphQL.git
+$ git clone https://github.com/yussan-media-group/mypushnotif.git
 $ python server.py
 ```
 
